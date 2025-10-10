@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# MagicDraw temp files
+*.mdzip.bak
+*.mdzip~
+
+# Build artifacts
+prototype/frontend/node_modules/
+prototype/frontend/dist/
+prototype/backend/target/
+prototype/backend/.env
+
+# Temporary files
+*.tmp
+~$*.docx
